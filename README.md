@@ -1,6 +1,8 @@
 # 🇦🇷 Aztec Frens Contributions
 
-TODO add a nice intro text
+We’re a bunch of crypto nerds learning programmable cryptography and building cool stuff along the way. This repo holds all the projects we've been working on with Aztec and Noir technologies.
+
+Who we are: [yagopajarino](https://github.com/yagopajarino), [casiojapi](https://github.com/casiojapi), [NicolasBiondini](https://github.com/NicolasBiondini), [carolang](https://github.com/carolang), [brweisz](https://github.com/brweisz), [almaraz97](https://github.com/almaraz97), [sebagiraudo](https://github.com/sebagiraudo), [lucilapastore](https://github.com/lucilapastore)
 
 ## Contributions
 
