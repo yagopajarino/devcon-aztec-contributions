@@ -12,4 +12,4 @@ Who we are: [yagopajarino](https://github.com/yagopajarino), [casiojapi](https:/
 
 -[Noirky2: Blogpost](https://blog.eryx.co/2024/10/29/Noirky2-how-we-made-a-Plonky2-proving-backend-for-Noir.html): a blogpost targeting Noir developers and enthusiasts, which provides an overview of the development process of the Plonky2 backend for Noir that uses the ACIR opcodes as a standard. 
 
- 
+-[Noir Playground](https://github.com/brweisz/noir-dapp-custom-template): a webpage with a quickstart for Noir verifier contracts generation and deployment. 
